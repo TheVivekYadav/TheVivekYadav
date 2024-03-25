@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @TheVivekYadav
 - 👀 I’m interested in contrubuting
-- 🌱 I’m currently learning angular
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me vivekyadav7021625953@gmail.com
 
