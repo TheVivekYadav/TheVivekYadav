@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @TheVivekYadav
 - 👀 I’m interested in contrubuting
-- 💞️ I’m looking to collaborate on Python Djano and JAVA Spring
+- 💞️ I’m looking to collaborate on Python Django and JAVA Spring
 - 📫 How to reach me vivekyadav7021625953@gmail.com
 
 <!---
