@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @TheVivekYadav
 - 👀 I’m interested in contrubuting
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I’m looking to collaborate on djanog,spring
 - 📫 How to reach me vivekyadav7021625953@gmail.com
 
 <!---
